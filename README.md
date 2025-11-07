@@ -30,8 +30,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **E-Commerce and Dashboard Projects**
-- 🌱 Exploring **Next.js**, **API Security**, and **Scalable Backend Systems**
+ 
 - 💬 Ask me about **React**, **Node.js**, **Express**, **PostgreSQL**, **TailwindCSS**
 - 🎯 Goal: To build innovative digital products for global impact  
 - ⚡ Fun Fact: I love debugging with music 🎧  
@@ -65,31 +64,6 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
-
----
-
-## 🧩 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🛍️ **E-Commerce Platform** | A full-stack store with authentication, cart, and payment integration. | React, Node.js, PostgreSQL, Tailwind |
-| 🏫 **University Management System** | Dashboard for managing students, courses, and grades. | React, Express, PostgreSQL |
-| 💼 **Portfolio Website** | Clean and interactive personal portfolio. | HTML, Tailwind, JS |
-| 💸 **Wallet System** | Send, receive, and store balance like Telebirr integrated in an eCommerce site. | Node.js, Express, PostgreSQL, JWT |
-| 🌍 **Tech Community Platform** | A network for developers to share projects and ideas. | MERN Stack |
-| 🧾 **Invoice Generator App** | Automatically generates invoices and PDFs. | React, Node.js |
-
----
-
-## 🔮 Future Product Ideas
-
-🚧 *Projects I’m planning or researching to build soon:*
-
-- 🧠 **AI-Powered Resume Builder** – Generates professional CVs using templates and AI.  
-- 🏢 **Startup Collaboration Hub** – Connects developers and entrepreneurs in Ethiopia.  
-- 💳 **Multi-Currency Payment Gateway** – Simplify online transactions for African e-commerce.  
-- 📚 **Online Learning Platform** – For coding bootcamps and tutorials with progress tracking.  
-- 🌐 **Remote Work Marketplace** – A freelancing platform for African tech talents.  
 
 ---
 

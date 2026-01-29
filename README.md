@@ -1,5 +1,4 @@
 <!-- 🌟 Sualih Mohammed GitHub Profile README 🌟 -->
-[https://portfolio-3gae35qv7-sualihhs-projects.vercel.app/]
 <div align="center">
   
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sualihh&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/sualihh)

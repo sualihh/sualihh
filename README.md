@@ -81,23 +81,6 @@
 </div>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href='https://www.linkedin.com/in/sualih-mohammed' target='_blank'>
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="35px"/>
-  </a>
-  &nbsp;
-  <a href='mailto:sualihh@gmail.com'>
-    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="35px"/>
-  </a>
-  &nbsp;
-  <a href='https://t.me/sualihh'>
-    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" height="35px"/>
-  </a>
-</p>
-
 ---
 
 <div align="center">

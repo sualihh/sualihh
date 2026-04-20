@@ -8,6 +8,12 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Sualih Mohammed</span></h1>
 
 <h3 align="center">Full Stack Developer | JavaScript Engineer | UI/UX Enthusiast</h3>
+<h3 align="center">The porfolio is hosted on https://sualihh-portfolio.vercel.app/</h3>
+
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Clean+Code+Advocate;React+%26+Node.js+Specialist" alt="Typing SVG" />

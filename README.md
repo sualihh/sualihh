@@ -6,9 +6,23 @@
 
 I build **web and mobile applications that solve real problems**.
 
-My main focus is full-stack development with JavaScript, React, Next.js, Node.js, and modern databases. I enjoy turning ideas into complete products — from the user interface to the backend, database, authentication, and deployment.
+My main focus is full-stack development with JavaScript, **TypeScript**, React, Next.js, Node.js, and modern databases. I enjoy turning ideas into complete products — from the user interface to the backend, database, authentication, and deployment.
 
 🇪🇹 **Building from Ethiopia, learning globally, and creating for real-world impact.**
+
+<br />
+
+<a href="https://sualihh-portfolio.vercel.app/">
+🌐 Portfolio
+</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/sualihh">
+💻 GitHub
+</a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Business+Software;Turning+Ideas+Into+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
@@ -60,47 +74,81 @@ I'm building my career from Ethiopia while aiming to create products that can ev
 
 ### Frontend
 
-**HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • Bootstrap**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
 
 ### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
 
 **React Native • Expo**
 
 ### Backend
 
-**Node.js • Express.js • REST API • FastAPI**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-### Databases & ORM
+**REST APIs**
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,prisma" />
+</p>
 
 **MongoDB • PostgreSQL • SQLite • Prisma**
 
-### Authentication & APIs
-
-**Clerk • REST APIs • JWT • Role-Based Access Control**
-
 ### Tools
 
-**Git • GitHub • Docker • Postman • Figma**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
+</p>
+
+**Clerk • JWT • Role-Based Access Control**
 
 ---
 
 ## 🚀 Things I Build
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🏢 Business Systems
 
 Management software designed around real business workflows.
+
+</td>
+<td width="50%">
 
 ### 📦 POS & Inventory
 
 Tools for products, stock, sales, customers, and business operations.
 
+</td>
+</tr>
+
+<tr>
+<td>
+
 ### 🏨 Industry Platforms
 
 Hotel, healthcare, dental, and other specialized management systems.
 
+</td>
+<td>
+
 ### 📱 Web & Mobile Apps
 
 Modern applications with responsive interfaces and reliable backends.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -150,11 +198,11 @@ A mobile application for small businesses to manage products, inventory, sales, 
 
 I'm continuing to grow beyond full-stack development and exploring:
 
-* ☁️ **Cloud Computing**
-* 🤖 **Artificial Intelligence**
-* 🔐 **Cybersecurity**
-* 🏗️ **System Design & Architecture**
-* 📈 **Product & Business Development**
+**☁️ Cloud Computing**
+**🤖 Artificial Intelligence**
+**🔐 Cybersecurity**
+**🏗️ System Design & Architecture**
+**📈 Product & Business Development**
 
 ---
 
@@ -171,6 +219,20 @@ For now, I'm focused on one thing:
 ---
 
 ## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/sualihh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://sualihh-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+</div>
+
+<br />
 
 <div align="center">
 

@@ -1,124 +1,181 @@
-<!-- 🌟 Sualih Mohammed GitHub Profile README 🌟 -->
-<div align="center">
-  
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sualihh&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/sualihh)
-  
-</div>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Sualih Mohammed</span></h1>
-
-<h3 align="center">Full Stack Developer | JavaScript Engineer | UI/UX Enthusiast</h3>
-<h3 align="center">The porfolio is hosted on https://sualihh-portfolio.vercel.app/</h3>
-
-
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Clean+Code+Advocate;React+%26+Node.js+Specialist" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sualihh&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-> 💡 *“I’m passionate about building powerful, responsive, and efficient web applications. I bring ideas to life through clean, maintainable code and creative UI design.”*
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
----
-
-## 🧠 About Me
-
- 
-- 💬 Ask me about **React**, **Node.js**, **Express**, **PostgreSQL**, **TailwindCSS**
-- 🎯 Goal: To build innovative digital products for global impact  
-- ⚡ Fun Fact: I love debugging with music 🎧  
-
----
-
-## 🚀 Skills
-
 <div align="center">
 
+# 👋 Hi, I'm Sualih Mohammed
 
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Full-Stack Developer • Software Engineering Student • Product Builder
 
----
+I build **web and mobile applications that solve real problems**.
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+My main focus is full-stack development with JavaScript, React, Next.js, Node.js, and modern databases. I enjoy turning ideas into complete products — from the user interface to the backend, database, authentication, and deployment.
 
----
-
-### 🗄️ Databases & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
----
-
-### 🔐 Authentication & APIs
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
----
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-### 🧩 What I Build
-- SaaS Applications  
-- POS Systems (Offline + Online Sync)  
-- Fullstack Web Apps  
-- Authentication Systems  
-- RESTful APIs  
+🇪🇹 **Building from Ethiopia, learning globally, and creating for real-world impact.**
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
+
+I'm a **Software Engineering student and Full-Stack Developer** who enjoys building software that is useful beyond a demo.
+
+I started by learning development independently and gradually moved from building individual applications to thinking about **complete systems, real businesses, users, and the problems software can solve**.
+
+Today, I'm especially interested in:
+
+* 🏢 Business management systems
+* 📦 POS & inventory platforms
+* 🏨 Hotel management software
+* 🏥 Healthcare & dental platforms
+* 📊 ERP systems
+* 📱 Web & mobile applications
+* 🤖 AI-powered products
+* ☁️ Cloud technologies
+* 🔐 Cybersecurity
+
+I'm not trying to learn every technology at once. My goal is to become a **strong engineer who can understand a problem, design the right solution, and build it end-to-end.**
+
+---
+
+## 🧠 What I Care About
+
+**Build useful things.**
+
+I believe good software is not just about writing code. It should make something **faster, simpler, safer, or more accessible** for the people using it.
+
+**Keep learning.**
+
+Technology changes quickly, so I continuously improve my skills and explore areas beyond my current stack.
+
+**Think like a product builder.**
+
+I want to understand not only *how to build software*, but also *why it should exist, who needs it, and what problem it solves.*
+
+**Start local. Think global.**
+
+I'm building my career from Ethiopia while aiming to create products that can eventually serve users anywhere.
+
+---
+
+## 🛠️ Technologies
+
+### Frontend
+
+**HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • Bootstrap**
+
+### Mobile
+
+**React Native • Expo**
+
+### Backend
+
+**Node.js • Express.js • FastAPI**
+
+### Databases & ORM
+
+**MongoDB • PostgreSQL • SQLite • Prisma**
+
+### Authentication & APIs
+
+**Clerk • REST APIs • JWT • Role-Based Access Control**
+
+### Tools
+
+**Git • GitHub • Docker • Postman • Figma**
+
+---
+
+## 🚀 Things I Build
+
+### 🏢 Business Systems
+
+Management software designed around real business workflows.
+
+### 📦 POS & Inventory
+
+Tools for products, stock, sales, customers, and business operations.
+
+### 🏨 Industry Platforms
+
+Hotel, healthcare, dental, and other specialized management systems.
+
+### 📱 Web & Mobile Apps
+
+Modern applications with responsive interfaces and reliable backends.
+
+---
+
+## 🔨 Projects
+
+### 🏨 Hotel Management System
+
+A full-stack platform designed to manage hotel operations such as rooms, reservations, guests, payments, housekeeping, and other hotel workflows.
+
+**Next.js • Prisma • PostgreSQL**
+
+---
+
+### 🦷 Dental Platform
+
+A modern healthcare platform focused on dental workflows, appointments, doctors, patients, and management features.
+
+**Next.js • React • Prisma • PostgreSQL**
+
+---
+
+### 🛒 Shop Management System
+
+A mobile application for small businesses to manage products, inventory, sales, and daily operations.
+
+**React Native • Expo • Node.js • Express • MongoDB**
+
+---
+
+## 📈 GitHub
 
 <div align="center">
 
-![Sualih’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=sualihh&show_icons=true&theme=tokyonight&count_private=true)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sualihh&layout=compact&theme=tokyonight)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sualihh&theme=tokyonight)
-<br/>
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sualihh&theme=tokyonight&margin-w=10)](https://github.com/sualihh)
+<img src="https://github-readme-stats.vercel.app/api?username=sualihh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sualihh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sualihh&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
+
+## 🌱 Currently Learning
+
+I'm continuing to grow beyond full-stack development and exploring:
+
+* ☁️ **Cloud Computing**
+* 🤖 **Artificial Intelligence**
+* 🔐 **Cybersecurity**
+* 🏗️ **System Design & Architecture**
+* 📈 **Product & Business Development**
+
 ---
 
+## 🎯 Where I'm Going
+
+I want to grow from a developer who **builds applications** into an engineer who can **design and build complete technology products**.
+
+Long term, I want to create products and companies that solve meaningful problems, create opportunities, and contribute to the growth of technology in Ethiopia and beyond.
+
+For now, I'm focused on one thing:
+
+> **Learn deeply. Build consistently. Solve real problems.**
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
-  <i>💬 “Great code is like art — elegant, expressive, and timeless.”</i><br><br>
-  ⭐️ *If you like my work, please consider giving my projects a star!*
+
+### 🇪🇹 Building from Ethiopia. 🌍 Thinking beyond borders.
+
+⭐ If you find something useful here, feel free to explore my projects.
+
 </div>

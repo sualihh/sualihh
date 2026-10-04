@@ -68,7 +68,7 @@ I'm building my career from Ethiopia while aiming to create products that can ev
 
 ### Backend
 
-**Node.js • Express.js • FastAPI**
+**Node.js • Express.js • REST API • FastAPI**
 
 ### Databases & ORM
 

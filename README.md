@@ -12,7 +12,7 @@ My main focus is full-stack development with JavaScript, **TypeScript**, React, 
 
 <br />
 
-<a href="https://sualihh-portfolio.vercel.app/">
+<a href="https://sualih.vercel.app/">
 🌐 Portfolio
 </a>
 &nbsp; • &nbsp;

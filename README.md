@@ -112,31 +112,6 @@ Modern applications with responsive interfaces and reliable backends.
 
 ---
 
-## 🔨 Projects
-
-### 🏨 Hotel Management System
-
-A full-stack platform designed to manage hotel operations such as rooms, reservations, guests, payments, housekeeping, and other hotel workflows.
-
-**Next.js • Prisma • PostgreSQL**
-
----
-
-### 🦷 Dental Platform
-
-A modern healthcare platform focused on dental workflows, appointments, doctors, patients, and management features.
-
-**Next.js • React • Prisma • PostgreSQL**
-
----
-
-### 🛒 Shop Management System
-
-A mobile application for small businesses to manage products, inventory, sales, and daily operations.
-
-**React Native • Expo • Node.js • Express • MongoDB**
-
----
 
 ## 📈 GitHub
 

@@ -21,14 +21,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-I'm a **Software Engineering student and Full-Stack Developer** who enjoys building software that is useful beyond a demo.
-
-
----
-
 
 ## 🛠️ Technologies
 

@@ -4,11 +4,6 @@
 
 ### Full-Stack Developer • Software Engineering Student • Product Builder
 
-I build **web and mobile applications that solve real problems**.
-
-My main focus is full-stack development with JavaScript, **TypeScript**, React, Next.js, Node.js, and modern databases. I enjoy turning ideas into complete products — from the user interface to the backend, database, authentication, and deployment.
-
-🇪🇹 **Building from Ethiopia, learning globally, and creating for real-world impact.**
 
 <br />
 
@@ -29,31 +24,11 @@ My main focus is full-stack development with JavaScript, **TypeScript**, React, 
 ---
 
 ## 👨‍💻 About Me
-
 I'm a **Software Engineering student and Full-Stack Developer** who enjoys building software that is useful beyond a demo.
 
 
 ---
 
-## 🧠 What I Care About
-
-**Build useful things.**
-
-I believe good software is not just about writing code. It should make something **faster, simpler, safer, or more accessible** for the people using it.
-
-**Keep learning.**
-
-Technology changes quickly, so I continuously improve my skills and explore areas beyond my current stack.
-
-**Think like a product builder.**
-
-I want to understand not only *how to build software*, but also *why it should exist, who needs it, and what problem it solves.*
-
-**Start local. Think global.**
-
-I'm building my career from Ethiopia while aiming to create products that can eventually serve users anywhere.
-
----
 
 ## 🛠️ Technologies
 
@@ -179,25 +154,8 @@ A mobile application for small businesses to manage products, inventory, sales, 
 
 ---
 
-## 🌱 Currently Learning
-
-I'm continuing to grow beyond full-stack development and exploring:
-
-**☁️ Cloud Computing**
-**🤖 Artificial Intelligence**
-**🔐 Cybersecurity**
-**🏗️ System Design & Architecture**
-**📈 Product & Business Development**
-
 ---
 
-## 🎯 Where I'm Going
-
-I want to grow from a developer who **builds applications** into an engineer who can **design and build complete technology products**.
-
-Long term, I want to create products and companies that solve meaningful problems, create opportunities, and contribute to the growth of technology in Ethiopia and beyond.
-
-For now, I'm focused on one thing:
 
 > **Learn deeply. Build consistently. Solve real problems.**
 

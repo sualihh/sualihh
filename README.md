@@ -32,21 +32,6 @@ My main focus is full-stack development with JavaScript, **TypeScript**, React, 
 
 I'm a **Software Engineering student and Full-Stack Developer** who enjoys building software that is useful beyond a demo.
 
-I started by learning development independently and gradually moved from building individual applications to thinking about **complete systems, real businesses, users, and the problems software can solve**.
-
-Today, I'm especially interested in:
-
-* 🏢 Business management systems
-* 📦 POS & inventory platforms
-* 🏨 Hotel management software
-* 🏥 Healthcare & dental platforms
-* 📊 ERP systems
-* 📱 Web & mobile applications
-* 🤖 AI-powered products
-* ☁️ Cloud technologies
-* 🔐 Cybersecurity
-
-I'm not trying to learn every technology at once. My goal is to become a **strong engineer who can understand a problem, design the right solution, and build it end-to-end.**
 
 ---
 
